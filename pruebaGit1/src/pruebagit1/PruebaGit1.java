@@ -10,7 +10,7 @@ public class PruebaGit1 {
         if(true)
             System.out.println("caca");
         else
-            System.out.println("pipi");
+            System.out.println("choped");
     }
     
 }
